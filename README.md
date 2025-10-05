@@ -11,4 +11,4 @@ Games will spin when you get near
 https://github.com/user-attachments/assets/7c3553a5-a206-4d16-9017-b0fd5f247b90
 
 Full Walkthrough
-<video src="https://github.com/AmazingAgent/CSC461-VRAssignment2/blob/main/Video/Walkthrough.mp4" width="720" height="720" controls></video>
+<video src="https://github.com/AmazingAgent/CSC461-VRAssignment2/blob/main/Videos/Walkthrough.mp4" width="720" height="720" controls></video>
