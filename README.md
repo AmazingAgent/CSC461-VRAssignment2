@@ -10,5 +10,5 @@ In this museum you can find a copy of every 3D Mario game with a description
 Games will spin when you get near
 https://github.com/user-attachments/assets/7c3553a5-a206-4d16-9017-b0fd5f247b90
 
-Full Walkthrough
-<iframe width="720" height="720" src="https://youtube.com/shorts/uAhlI5PkghY?si=LDVJUt7FOJpXxe26" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Full Walkthrough Here:
+https://youtube.com/shorts/uAhlI5PkghY?si=LDVJUt7FOJpXxe26
